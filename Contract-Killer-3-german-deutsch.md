@@ -1,13 +1,11 @@
-# Contract Killer 3 deutsch
- 
-Letzte Änderung: 18.09.2013 
+Letzte Änderung: 25.04.2014 
 
 Zwischen uns [Unser Firmenname] 
 und Ihnen [Name des Kunden] 
 
 ## Zusammenfassung: 
 
-Wir tun immer unser Bestes um Ihre Bedürfnisse und Erwartungen zu erfüllen, jedoch ist es wichtig Dinge niederzuschreiben damit jeder weiß, was was ist, wer was und wann tuen soll und was passiert wenn etwas schief läuft. In diesem Vertrage werden Sie keine komplizierten, in Juristensprache verfassten Geschäftsbedingungen oder lange Passagen von unleserlichem Text finden.
+Wir tun immer unser Bestes um Ihre Bedürfnisse und Erwartungen zu erfüllen, jedoch ist es wichtig Dinge niederzuschreiben damit jeder weiß, was was ist, wer was und wann machen soll und was passiert wenn etwas schief läuft. In diesem Vertrage werden Sie keine komplizierten, in Juristensprache verfassten Geschäftsbedingungen oder lange Passagen von unleserlichem Text finden.
 Wir haben kein verlangen danach, Sie dazu zu bringen etwas zu unterzeichnen das sie eventuell zu einem späteren Zeitpunkt bereuen. Was wir hingegen wollen ist das beste für beide Parteien, sowohl zum jetzigen Zeitpunkt, als auch in Zukunft.
 
 Kurz:
@@ -16,7 +14,7 @@ Sie ([Name des Kunden]), ansässig in [Adresse des Kunden] beauftragen uns ([Uns
 
 ## Auf was haben sich beide Parteien geeinigt zu tun? 
 
-*Sie:* Sie haben die Bemächtigung diesen Vertag im Interesse von Ihnen, Ihres Unternehmens oder Ihrer Organisation einzugehen. 
+*Sie:* Sie haben die Bemächtigung diesen Vertrag im Interesse von Ihnen, Ihres Unternehmens oder Ihrer Organisation einzugehen. 
 Sie geben uns alles das wir benötigen um das Projekt abzuschließen wenn, wann und in dem Format, in dem wir es Benötigen. Sie werden unsere Arbeit prüfen und uns Rückmeldung sowie Freigaben innerhalb eines angemessenen Zeitraums erteilen.
 Deadlines funktionieren in beide Richtungen, Sie sind also ebenfalls an Termine gebunden, die wir gemeinsam vereinbart haben.
 Sie erklären sich ebenfalls einverstanden sich an die Zahlungsvereinbarungen und -termine, die am Ende dieses Dokuments angeführt sind, zu halten.
@@ -28,7 +26,7 @@ Wir sind bemüht sämtliche vereinbarte Deadlines einzuhalten und zusätzlich di
 
 ### Design 
 
-Wir erstellen "look-and-feel" Designs und flexible Layouts die sich an die Möglichkeiten von vielen Endgeräten und Bildschirmgrößen anpassen. Wir erstellen Designs iterativ und benützen hierfür überwiegend HTML und CSS um so keine Zeit damit vergeuden, für jedes Template ein statisches Bild zu erstellen. Wenn wir statische Bilder verwenden, dann um die Richtung, in die das Look-and-feel geht, zu zeigen. Dies wird von uns als "Design Athmosphere" bezeichnet.
+Wir erstellen "look-and-feel" Designs und flexible Layouts die sich an die Möglichkeiten von vielen Endgeräten und Bildschirmgrößen anpassen. Wir erstellen Designs iterativ und benützen hierfür überwiegend HTML und CSS um so keine Zeit damit vergeuden, für jedes Template ein statisches Bild zu erstellen. Wenn wir statische Bilder verwenden, dann um die Richtung, in die das Look-and-feel geht, zu zeigen. Dies wird von uns als "Design Athmosphäre" bezeichnet.
 
 Sie werden zwei oder mehrmals wöchentlich die Möglichkeit haben, unsere Arbeit durchzusehen und Feedback zu geben. Sollten Sie, in irgendeiner Phase des Projekts, nicht glücklich mit der Richtung sein, in die unsere Arbeit geht, werden Sie uns für die gesamten bis zu diesem Zeitpunkt erbrachten Leistungen bezahlen und diesen Vertrag auflösen.
 
@@ -39,7 +37,7 @@ Wenn Sie wollen, dass wir neuen Inhalt für sie texten, so können wir ein separ
 
 ### Grafik 
 
-Sie werden Grafiken in einem bearbeitbaren, digitalen und vektorbasierten Format bereitstellen. Des Weiteren werden Sie Bilder und Fotos in einem hochaufgelösten, digitalen Format zur Verfügung stellen.
+Sie werden Grafiken in einem bearbeitbaren, digitalen und vektorisierten Format bereitstellen. Des Weiteren werden Sie Bilder und Fotos in einem hoch aufgelösten, digitalen Format zur Verfügung stellen.
 Sollten Sie sich dazu entschließen Stock-Bilder einzukaufen, können wir Ihnen hierfür Bildagenturen empfehlen. Falls Sie wollen, dass wir für Sie nach Bildern suchen können wir Ihnen hierfür ein gesondertes Angebot erstellen.
 
 ### HTML, CSS und JavaScript
@@ -52,7 +50,7 @@ Browser Tests dienen nicht mehr dazu, eine Webseite in Browsern mit unterschiedl
 
 ### Desktop Browser Tests
 
-Wir testen unsere Arbeit in aktuellen Versionen der bedeutendsten Desktop Browser inklusive jenen von Apple (Safari), Google (Chrome), Microsoft (Internet Explorer), Mozilla Firefox und Opera. Außerdem testen wir um sicherzustellen, dass Benutzer des Microsoft Internet Explorer 8 für Windows ein angebrachtes, möglicherweise abweichendes Erlebnis, erhalten. Wir werden ein einspaltiges Design für Internet Explorer 7 und darunter auf Windows implementieren und keine Tests in anderen, älteren Browsern durchführen außer Sie legen dies fest. Sollten Sie ein erweitertes, aufwendigeres Design für ältere Browser benötigen können wir hierfür ein gesondertes Angebot erstellen.
+Wir testen unsere Arbeit in aktuellen Versionen der bedeutendsten Desktop Browser inklusive jenen von Apple (Safari), Google (Chrome), Microsoft (Internet Explorer), Mozilla Firefox und Opera. Außerdem testen wir um sicherzustellen, dass Benutzer des Microsoft Internet Explorer 8 für Windows ein angebrachtes, möglicherweise abweichendes Erlebnis, erhalten. Wir werden für Internet Explorer 7 und noch älteren Browsern keine Tests durchführen außer Sie legen dies fest. Sollten Sie ein erweitertes, aufwendigeres Design für ältere Browser benötigen können wir hierfür ein gesondertes Angebot erstellen.
 
 ### Mobile Browser Tests
 
@@ -60,7 +58,6 @@ Ein Design auf populären Endgeräten mit kleinen Bildschirmgrößen zu testen i
 
 iOS: Safari, Google Chrome und Opera Mini 
 Android 4.1: Google Chrome, Firefox und Opera Mini
-Android 3.2: Browser, Firefox und Opera Mini
 
 Aktuell testen wir nicht in Blackberry OS oder Blackberry QNX, Opera Mobile, Symbian oder andern mobilen Browsern. Sollten von Ihnen ein Testing auch auf diesen oder anderen Geräten/Browsern erwünscht sein, können wir hierfür ein gesondertes Angebot erstellen.
 
@@ -92,7 +89,11 @@ Wir lieben es, mit unserer Arbeit zu prahlen und die aus unserer Arbeit gewonnen
 
 ### Bezahlung 
 
-Wir sind uns sicher, dass Sie verstehen wie wichtig es für uns als kleines Unternehmen ist dass Sie die Rechnungen die Wir Ihnen ausstellen zeitnahe bezahlen. Da wir uns auch sicher sind, dass Sie gerne weiterhin mit uns befreundet sein möchten, akzeptieren Sie, sich strikt an die folgende Zahlungstermine zu halten.
+Wir sind uns sicher, dass Sie verstehen wie wichtig es für uns als kleines Unternehmen ist dass Sie die Rechnungen die wir Ihnen ausstellen zeitnahe bezahlen. Da wir uns auch sicher sind, dass Sie gerne weiterhin mit uns befreundet sein möchten, akzeptieren Sie, sich strikt an die folgende Zahlungsvereinbarung und Termine zu halten.
+
+Zwei von Fünf Teilen (40%) des im Kostenvoranschlag angegebenen Betrags wird mit der Unterschrift dieses Vertrages fällig (Auftragserteilung). Die restliche Forderung 3/5 Teilen (60%) erst nach Fertigstellung. 
+
+Verzögert sich allerdings der Termin der Fertigstellung um mehr als den dafür vorgesehene Zeitrahmen (was immer mal passieren kann), können Teilzahlungen (die sich nach unseren bis dahin erbrachten Leistungen orientiert) gefordert werden. Wir müssen uns schließlich auch über Wasser halten. Ist kein Zeitrahmen für das Projekt ausgemacht, werden Teilzahlungen jeweils zum nächsten Monat fällig.
 
 [Zahlungstermine]
 
